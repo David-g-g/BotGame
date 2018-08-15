@@ -1,0 +1,4 @@
+namespace OpenTable.BotGame
+{
+    
+}
